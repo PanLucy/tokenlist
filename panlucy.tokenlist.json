@@ -1,0 +1,43 @@
+{
+  "name": "PanLucy Tokenlist",
+  "logoURI": "https://www.panlucy.io/wp-content/uploads/2025/08/PL_Coin_Transparent_512x512.png",
+  "keywords": [
+    "PanLucy",
+    "crypto",
+    "memecoin",
+    "ERC-20",
+    "base",
+    "ai",
+    "web3",
+    "metaverse",
+    "community",
+    "utility",
+    "entertainment",
+    "fun",
+    "music",
+    "sustainability"
+  ],
+  "timestamp": "2025-08-11T17:30:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x00A940A7610a9BceF1ce412DfaBd032f34e7A42b",
+      "name": "PanLucy",
+      "symbol": "PLUCY",
+      "decimals": 18,
+      "logoURI": "https://www.panlucy.io/wp-content/uploads/2025/08/PL_Coin_Transparent_512x512.png",
+      "extensions": {
+        "website": "https://www.panlucy.io",
+        "twitter": "https://x.com/PanLucyCoin",
+        "telegram": "https://t.me/PanLucyCoin",
+        "github": "https://github.com/PanLucy",
+        "youtube": "https://www.youtube.com/@PanLucyCoin"
+      }
+    }
+  ]
+}
